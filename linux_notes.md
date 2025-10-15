@@ -16,7 +16,6 @@ At first, I confused /usr with my personal directory /home/jmendoza07, but learn
 3. Command Groups
 Group 0: Workspace Management
 
-![Before using clear](images/Cat-Linux.png)
 
 clear – clears the terminal screen
 Example:
@@ -44,8 +43,6 @@ Example: cd ../usr/c/...
 Learning Value: Teaches how every directory connects within a larger path structure.
 
 Group 2: File & Directory Management
-
-![File transfer using mv](images/File_transfer.png)
 
 4. mkdir – creates a new directory.
 Example: mkdir OnePiece
@@ -78,8 +75,6 @@ Example: nano world_war_3_theories.md
 Learning Value: Using nano taught me that Linux is about direct control. It made me feel like I was inside the system, editing files where they live instead of through layers of interfaces. Shortcuts like Ctrl + O (save) and Ctrl + X (exit) reinforce the attention to detail that matters in professional environments.
 
 4. Reflection and Evaluation
-
-![Final directory structure](images/final_structure.png)
 
 I realized I was starting to think like a real Linux user when I began using commands just to explore—making silly little files or directories for fun. That freedom to experiment helped me see that every command built my understanding of how the system is structured. Linux stopped feeling like a list of rules and started feeling like a creative workspace where I could test, organize, and fix things on my own.
 
