@@ -24,7 +24,8 @@ saddswadfawefawerfawrgergereriejrpoihigrjipaepiojgopjaeopjpokjeapokjjpoerjippjia
 jmendoza07@Natsubi:/mnt/c/Users/aname/Documents/Linux-CaseStudy/drafts$ clear
 
 
-Pretend all that mumbo jumbo is gone 😉
+*Pretend all that mumbo jumbo is gone*
+
 Learning Value: Using clear helped me realize that Linux isn't about commands—it's about maintaining control over your workspace. By clearing the terminal, I could focus on where things are stored and how they connect, instead of getting lost in the clutter of past outputs.
 
 Group 1: Navigation and File Structure
