@@ -83,6 +83,6 @@ Unlike memorization-based exams, this Sprint 2 exam tested my process and my evi
 
 Ubuntu Terminal
 
-GitHub Repository (link here)
+GitHub Repository: https://github.com/juanrobledomendoza 
 
 Course Materials: CST 349 – Human Value in the Age of AI
